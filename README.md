@@ -1,3 +1,5 @@
+![Banner](Banner.png)
+
 <h1 align="center">Hi 👋, I'm Sujal Patidar</h1>
 <h3 align="center">A Passionate Developer | Turning ideas into web apps</h3>
 
